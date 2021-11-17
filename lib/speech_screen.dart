@@ -7,7 +7,7 @@ import 'package:translator/translator.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
 const textStyle2 = const TextStyle(
-  //Creating new text style and font
+  //Criação de novo estilo de texto e fonte
   fontSize: 24.0,
   color: Colors.black87,
   fontWeight: FontWeight.w400,
